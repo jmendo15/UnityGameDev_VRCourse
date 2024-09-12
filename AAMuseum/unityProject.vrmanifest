@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.aamuseum.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\nubis\\OneDrive\\Documents\\school stuff\\Unity\\AAMuseum\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "AAMuseum [Testing]"
+        }
+      }
+    }
+  ]
+}
